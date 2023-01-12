@@ -17,11 +17,15 @@
     </properties>
          <!-- https://mvnrepository.com/artifact/org.apache.tomcat.maven/tomcat7-maven-plugin -->
 <!-- https://mvnrepository.com/artifact/org.apache.tomcat.embed/tomcat-embed-core -->
+ <dependencies>
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
     <version>9.0.70</version>
 </dependency>
+         
+         
+       </dependencies>
 
 
 <packaging>war</packaging>
