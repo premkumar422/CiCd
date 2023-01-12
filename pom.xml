@@ -25,11 +25,7 @@
 </dependency>
          
          
-       </dependencies>
-         <servlet-mapping> 
-<servlet-name>MyOwnDefaultServlet</servlet-name>
-<url-pattern>/CiCd</url-pattern>
-</servlet-mapping>
+         </dependencies>
 
 
 <packaging>war</packaging>
